@@ -3,4 +3,3 @@ function App() {
 }
 
 export default App;
-const men = "Abduvokhid";
