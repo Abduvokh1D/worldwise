@@ -30,10 +30,6 @@ export default [
         { allowConstantExport: true },
       ],
       "no-unused-vars": ["warn", { varsIgnorePattern: "^[A-Z_]" }],
-      "react-refresh/only-export-components": [
-        "warn",
-        { allowConstantExport: true },
-      ],
     },
   },
 ];
